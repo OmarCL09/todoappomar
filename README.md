@@ -1,60 +1,70 @@
-# TodoAppOMAR ibero 📋✨  
-**¡Bienvenido a TodoAppOMAR ibero!**  
-Esta es una aplicación simple y funcional para la gestión de tareas. Con ella, puedes organizar tus pendientes, marcar tareas completadas, y mantener el control de tu día a día de manera eficiente.
+# Getting Started with Create React App
 
----
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🚀 **Características principales**  
-- **Añadir tareas**: Registra tareas con un nombre y una descripción.  
-- **Listar tareas**: Visualiza todas tus tareas pendientes y completadas.  
-- **Completar tareas**: Marca las tareas como finalizadas con un solo clic.  
-- **Eliminar tareas**: Borra las tareas que ya no necesitas.  
-- **Interfaz amigable**: Una experiencia sencilla y clara para facilitar tu organización.  
+## Available Scripts
 
+In the project directory, you can run:
 
-## 📄 **Historias de usuario**  
-1. **Agregar tareas**  
-   Como usuario, quiero poder agregar tareas con un nombre y una descripción para gestionar mis pendientes.  
-   
-2. **Marcar tareas como completadas**  
-   Como usuario, quiero poder marcar tareas como finalizadas para llevar un control visual de mi progreso.  
+### `npm start`
 
-3. **Eliminar tareas**  
-   Como usuario, quiero poder eliminar tareas que ya no sean necesarias para mantener la lista organizada.  
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-4. **Ver tareas en una lista**  
-   Como usuario, quiero poder ver todas mis tareas (pendientes y completadas) de forma clara.  
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-5. **Persistencia de datos**  
-   Como usuario, quiero que mis tareas se guarden en el almacenamiento local para no perder mi información al cerrar la aplicación.  
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## 🌟 **Contribuciones**  
+### `npm run build`
 
-Este proyecto fue desarrollado por:  
-- **Omar Esteban Contreras Leal**  
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## 🔑 **Comandos Git utilizados**  
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-A lo largo del desarrollo, se hizo uso de los siguientes comandos:  
-- `git add` para añadir cambios.  
-- `git commit` para registrar los cambios realizados.  
-- `git branch` para gestionar ramas.  
-- `git push` para subir el código al repositorio remoto.  
-- `git clone` para descargar el proyecto inicial.  
-- `git status`, `git log` para consultar el estado y el historial del repositorio.  
+### `npm run eject`
 
----
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-## 📂 **Estructura del proyecto**  
-```plaintext  
-todoappomar/  
-├── src/  
-│   ├── index.html  
-│   ├── styles.css  
-│   ├── app.js  
-├── .gitignore  
-└── README.md  
-```  
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
