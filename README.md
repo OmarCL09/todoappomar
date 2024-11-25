@@ -1,4 +1,4 @@
-Para iniciar la aplicacion debes escribir en la linea de comandos
+Para iniciar la aplicacion debes escribir en la linea de comandos (RECUERDA TENER NODE DESCARGADO)
 ### `npm start`
 
 Abre [http://localhost:3000](http://localhost:3000) Para verlo en tu navegador.
